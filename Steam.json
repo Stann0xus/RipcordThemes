@@ -1,0 +1,18 @@
+{
+    "alternate_base": "#171a21",
+    "base": "#1b2838",
+    "bright_text": "#ffffff",
+    "button": "#2c3e50",
+    "chat_timestamp": "#555555",
+    "disabled_button": "#34495e",
+    "disabled_icon": "#7f8c8d",
+    "disabled_text": "#7f8c8d",
+    "highlight": "#738694",
+    "highlighted_text": "#1a1a1a",
+    "icon": "#c2c7cc",
+    "shadow": "#1b2838",
+    "text": "#c2c7cc",
+    "unread_badge": "#c2c7cc",
+    "unread_badge_text": "#1a1a1a",
+    "window": "#263340"
+}
